@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: beige;
+    padding: 50px;
+    
+}
+
+h1{
+    color: blueviolet;
+    background-color: aliceblue;
+    font-style: italic;
+    text-decoration:underline;
+    width: fit-content;
+}
+
+.menu_header{
+    background-color: beige;
+    padding: 5px;
+    border: solid;
+    border-width: 2px;
+    width: fit-content;
+    word-spacing: 10px;
+}
+
+.menu_header li{
+    display: inline-block; 
+    font-size: 25px;
+}
+
+.link_section{
+    color: brown;
+    text-decoration: none;
+    
+}
+
+main{
+border-top: solid 2px black;
+border-bottom: solid 2px black;
+}
+
+.imagen_main{
+    width: 100%;
+}
+
+section{
+    border: solid;
+    border-color:black;
+    border-width: 1px;
+    padding: 100px;
+}
+
+.texto_section1{
+    color: aqua;
+    width: 500px;
+    font-size: 23px;
+
+
+}
+
+.texto_section2{
+    color: aqua;
+    width: 500px;
+    font-size: 23px;
+
+}
+
+.texto_section3{
+    color: aqua;
+    width: 580px;
+    font-size: 23px;
+}
+
+.texto_section4{
+    width: 700px;
+    font-size: 23px;
+    margin: auto;
+}
+
+
+
+
+
+.imagen_section1{
+    height: 500px;
+    
+    
+}
+
+.imagen_section2{
+    height: 70%;
+    
+}
+
+.imagen_section3{
+    height: 50%; 
+    
+}
+
+.imagen_sectionTest{
+    height: 500px;
+    
+}
+
+
+.boton_section3{
+    position: relative;
+    top: 120px; left: 400px;
+}
+
+.boton_section4{
+    position: relative;
+    top: 400px; left: 630px;
+}
+
+.boton_whatsapp{
+    margin-top: 100px;
+    padding: 10px;
+    border-width: 20px;
+    border-color: aquamarine;
+    background: green;
+    color: aliceblue;
+}
+
+
+footer{
+    padding: 50px;
+    border: solid;
+    border-width: 1px;
+}
+
+h3{
+    position: relative;
+    top: 40px;
+    text-decoration:overline;
+}
+
+form{
+    position: relative;
+    padding: 20px;
+    background-color: rgb(186, 197, 127);
+    width: 300px;
+    border: solid;
+    margin: auto;
+    align-items: initial;
+    
+}
+
+.contenedor_central{
+    text-align: center;
+}
+
+label{
+font-style: italic;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    padding: 5px;
+}
+
